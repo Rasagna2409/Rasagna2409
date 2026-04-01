@@ -38,7 +38,8 @@
 - Improves understanding of DSA  
 
 ## 📊 GitHub Stats
-![Rasagna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasagna2409&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![Rasagna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasagna2409&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ## 🔗 Connect with Me
 - GitHub: https://github.com/Rasagna2409  
