@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Kola Rasagna
 
-<!--
-**Rasagna2409/Rasagna2409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Full Stack Developer Intern @ Cognifyz Technologies  
+📍 India  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Passionate about coding and problem solving  
+- Strong in Data Structures and Algorithms  
+- Interested in Web Development and Software Development  
+- Currently preparing for placements  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Python, C, Java  
+- **Core:** DSA, DBMS, OS  
+- **Tools:** Git, GitHub, VS Code  
+
+## 📌 Projects
+
+### 🔹 Student Management System
+- Manages student records and results  
+- Uses SQL for efficient data handling  
+
+### 🔹 Smart Irrigation System
+- Automates irrigation based on soil moisture  
+- Helps save water  
+
+### 🔹 Algorithm Visualizer
+- Visualizes sorting and searching algorithms  
+- Improves understanding of DSA  
+
+## 🔗 Connect with Me
+- GitHub: https://github.com/Rasagna2409  
+- LinkedIn: https://www.linkedin.com/in/kola-rasagna-a576a6309  
+
+⭐ Always learning and growing!
